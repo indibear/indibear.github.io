@@ -1,0 +1,34 @@
+h1{
+    color: rgb(103, 32, 14);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px
+    
+}
+
+h2{
+    color: rgb(129, 31, 6);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px
+}
+
+#DragonEraQuirshi{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+#page-header{
+    background-size: cover;
+    background-image: url("../imgs/CssBackground.jpg");
+    height: 30%;
+    border: solid;
+    border-radius: 25px;    
+    border: 3px inset rgb(182, 219, 252);
+    width: 80%;
+    margin: auto; 
+    
+
+    
+}
