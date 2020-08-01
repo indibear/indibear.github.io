@@ -69,6 +69,12 @@ hr{
   padding: 0px;
 }
 
+.cropBox2{
+  margin-left: 20%;
+  padding: 0px;
+  margin-top: 30px;
+}
+
 .cropImage{
   margin: 15px;
   margin-top: 70px;
@@ -86,6 +92,7 @@ hr{
   margin-top: 54px;
   width: 50%;
 }
+
 
 .comment {
   color: #85998E;
