@@ -1,5 +1,5 @@
 h1{
-    color: #667A6F;
+    color: #D7FDEC;
     text-align: center;
     font-size: 50px
 }
@@ -16,17 +16,17 @@ h2{
 }
 
 
-
+#about{
+  color: #97d1bf;
+  text-align: center;
+}
 
 
 .logEntries{
-    margin-right: 20px;
     text-align: center;
     float: center;
-    background-color: yellow
     border: 1px;
-    width: 50%;
-    color: grey;
+    color: #97d1bf;
 }
 
 .row{
@@ -46,7 +46,7 @@ body {
 }
 
 #navbar a {
-  color: #667A6F;
+  color: #85998E;
   text-align: center;
   text-decoration: none;
   font-size: 20px;
@@ -56,4 +56,10 @@ body {
 
 #navbar {
   text-align: center;
+}
+
+hr{
+  border-color: #85998E;
+  color:#85998E;
+  width: 80%;
 }
