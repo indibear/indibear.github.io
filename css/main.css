@@ -63,3 +63,18 @@ hr{
   color:#85998E;
   width: 80%;
 }
+
+.cropBox{
+  margin-left: 20%;
+  padding: 0px;
+}
+
+.cropImage{
+  margin: 15px;
+  margin-top: 70px;
+  border-radius: 7px;
+  width: 200px;
+  height: 120px;
+  object-fit: cover;
+  object-position: 20% 30%;
+}
