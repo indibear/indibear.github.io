@@ -83,5 +83,11 @@ hr{
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 54px;
   width: 50%;
+}
+
+.comment {
+  color: #85998E;
+  text-align: center;
 }
