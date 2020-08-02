@@ -69,10 +69,26 @@ hr{
   display: inline-block;
   margin-left: 40%;
   padding: 0px;
-  backdrop-filter: blur(10px);
+}
+
+.cropBoxHome{
+  position: relative;
+  display: inline-block;
+  margin-left: 20%;
+  padding: 0px;
 }
 
 .cropBox .text{
+  position: absolute;
+  z-index: 999;
+  margin: 0 auto;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+  color: #D7FDEC;
+}
+
+.cropBoxHome .text{
   position: absolute;
   z-index: 999;
   margin: 0 auto;
@@ -87,6 +103,7 @@ hr{
   padding: 0px;
   margin-top: 30px;
 }
+
 
 .cropImage{
   margin: 15px;
