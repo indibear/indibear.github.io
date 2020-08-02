@@ -72,9 +72,9 @@ hr{
 }
 
 .cropBoxHome{
+  margin-left: 20%;
   position: relative;
   display: inline-block;
-  margin-left: 20%;
   padding: 0px;
 }
 
