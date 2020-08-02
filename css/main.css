@@ -65,8 +65,21 @@ hr{
 }
 
 .cropBox{
-  margin-left: 20%;
+  position: relative;
+  display: inline-block;
+  margin-left: 40%;
   padding: 0px;
+  backdrop-filter: blur(10px);
+}
+
+.cropBox .text{
+  position: absolute;
+  z-index: 999;
+  margin: 0 auto;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+  color: #D7FDEC;
 }
 
 .cropBox2{
